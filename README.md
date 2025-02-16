@@ -49,9 +49,9 @@
 
 ## 📷 Screenshots   
 
-| Home Screen | Ride Booking | Active Ride |
+| Home Screen | Select Destination | Ride Details |
 |--------------|--------------|----------------------|
-| <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Syaraus%20Customer%20App/0.jpg" width="200" height="500"/> | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Syaraus%20Customer%20App/4.jpg" width="200" height="500"/> | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Syaraus%20Customer%20App/5.jpg" width="200" height="500"/> |
+| <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Syaraus%20Customer%20App/0.jpg" width="200" height="500"/> | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Syaraus%20Customer%20App/1.jpg" width="200" height="500"/> | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Syaraus%20Customer%20App/7.jpg" width="200" height="500"/> |
 
 📌 **View More Screenshots** 👉 [Screenshots.md](./screenshots.md)  
 
